@@ -129,4 +129,3 @@ smart-campus-security/
 ## Author
 
 **Ashwath Baskar**
-Mini Project — Multimodal Machine Learning (21AIE541T)
