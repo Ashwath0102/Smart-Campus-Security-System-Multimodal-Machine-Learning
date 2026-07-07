@@ -101,8 +101,6 @@ smart-campus-security/
 |   |-- Smart_Campus_Security_MML.ipynb   # Main pipeline notebook
 |-- enrolled_faces/                        # Enrolled reference photos (5 identities)
 |-- test_images/                           # Test scenario images (sce1.png - sce10.png)
-|-- docs/
-|   |-- Project_Overview.pdf               # Original project brief
 |-- README.md
 ```
 
@@ -117,7 +115,7 @@ smart-campus-security/
    ```
    pip install insightface opencv-python transformers torch pandas matplotlib
    ```
-3. Place enrolled reference photos in `enrolled_faces/` and test scenario images in `test_images/`.
+3. Place enrolled reference photos in `enrolled_faces/` and test scenario images in `test_images/`. Add your picture in the enrolled faces or even replace with your classroom and classmates
 4. Open and run `notebook/Smart_Campus_Security_MML.ipynb` end-to-end.
 
 ## Key Learnings
